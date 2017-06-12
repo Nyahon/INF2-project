@@ -2,7 +2,9 @@
 // Created by nyahon on 11.06.17.
 //
 
-#ifndef PROJECT_COURSE_H
-#define PROJECT_COURSE_H
+#pragma once
 
-#endif //PROJECT_COURSE_H
+
+void course();
+
+void courseMenu();

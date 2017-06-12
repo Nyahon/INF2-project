@@ -4,7 +4,7 @@
 
 #include "inscriptions.h"
 #include "utils.h"
-
+#include "course.h"
 
 int main (int argc, char *argv[]){
     //input Menu
@@ -29,7 +29,7 @@ do {
         inscr();
     }
     if (in == 'c') {
-//        course();
+        course();
     }
     if (in == 'a') {
 //        analyse();
