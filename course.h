@@ -8,3 +8,5 @@
 void course();
 
 void courseMenu();
+
+void suite();

@@ -25,6 +25,6 @@ void course(){
         char buffer[26];
         strftime(buffer, 26, "%Y-%m-%d %H:%M:%S", &start);
         puts(buffer);
-    }while(true);
+    }while(true );
 
 }
